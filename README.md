@@ -10,3 +10,7 @@ Mit LEDs kann man sehr schnell die Ergebnisse eines Projekts testen. Daher sind 
 
 
 Die Spannung an den Digitalen Ports des Boards beträgt 5V. Beim direkten Anschluss an diese Ports gibt jede LED recht schnell den Geist auf. Daher muss ein Widerstand mit in den Stromkreis geschaltet werden. Im Internet gibt es unter dem Suchbegriff „Widerstandsrechner LED“ sehr gute Hilfen dazu, um den passenden Widerstand zu finden.
+
+
+LED-Vorwiderstandsrechner: https://www.elektronik-kompendium.de/sites/bau/1109111.htm
+Widerstandsfarbcode-Tabelle (Widerstandscode / Farbcode): https://www.elektronik-kompendium.de/sites/bau/1109051.htm
